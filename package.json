@@ -1,0 +1,6 @@
+{
+  "name": "jam-qa-mono",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": { "build": "npm run build -w apps/web" }
+}
