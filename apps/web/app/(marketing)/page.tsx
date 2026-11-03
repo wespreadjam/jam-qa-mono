@@ -12,6 +12,7 @@ export default function Home() {
         <li><strong>Labor-law guardrails</strong> for predictive scheduling and breaks.</li>
       </ul>
       <p>Used by 1,800 restaurants, cafes and retail stores.</p>
+      <p>Last reviewed November 3, 2026 (030419).</p>
     </>
   );
 }
